@@ -862,7 +862,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"./tf_beach_tileA1.png",
+         "image":"tf_beach_tileA1.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -875,7 +875,7 @@
         {
          "columns":16,
          "firstgid":513,
-         "image":"./tf_beach_tileB.png",
+         "image":"tf_beach_tileB.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
