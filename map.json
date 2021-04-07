@@ -70,7 +70,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -91,7 +91,75 @@
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":19,
+                 "id":3,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "text":"Tokenstart->",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":124.375,
+                 "x":808.479166666667,
+                 "y":423.833333333333
+                }, 
+                {
+                 "height":19,
+                 "id":4,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "text":"<- VisWeb",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":124.375,
+                 "x":616.479166666667,
+                 "y":423.833333333333
+                }, 
+                {
+                 "height":19,
+                 "id":5,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "text":"Meeting 1",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":92.375,
+                 "x":973.8125,
+                 "y":702.5
+                }, 
+                {
+                 "height":19,
+                 "id":6,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "text":"Meeting 2",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":92.375,
+                 "x":1191.14583333333,
+                 "y":425.166666666667
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -135,7 +203,7 @@
                  "value":3
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -147,13 +215,13 @@
          "name":"book",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
         }],
- "nextlayerid":17,
- "nextobjectid":1,
+ "nextlayerid":18,
+ "nextobjectid":8,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.5.0",
